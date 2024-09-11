@@ -1,4 +1,4 @@
-import { DataItem, DistributionKey } from "./DataTypes";
+import {  DistributionKey } from "./DataTypes";
 import { TabType } from "./enums";
 
 export interface DataComponentProps {
